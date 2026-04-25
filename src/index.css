@@ -1,0 +1,58 @@
+body{
+  /* background-color: cadetblue; */
+    background: #e3f2fd;
+     /* background: linear-gradient(135deg, #667eea, #764ba2);
+     min-height: 100vh;
+     overflow-y: hidden; */
+     
+}
+.card{
+  background: #ffffff;
+  border: 1px solid white;
+   
+}
+.form-control:focus{
+ box-shadow: none;
+ border-color: #ced4da;
+}
+.form-control{
+  border: 2px solid #ced4da;
+  border-right: none;
+}
+.removeBtn{
+  /* border: 1px solid red; */
+  border: none;
+  /* background-color: red; */
+  color: white;
+  cursor: pointer;
+  
+  
+}
+.icon{
+  font-size: 16px;
+}
+.list-all{
+  font-size: 18px;
+}
+.all-btn{
+  display: flex;
+  align-items: start !important;
+  /* border: 1px solid black; */
+}
+.all-btn h5{
+  display: flex;
+  font-size: 17px;
+  font-weight: 450;
+}
+.add-btn{
+  background: #374151 !important;
+  color: white;
+  border: none;
+}
+button:hover {
+  opacity: 0.9;
+  transform: scale(1.01);
+}
+.lis{
+  background: #374151 ;
+}
