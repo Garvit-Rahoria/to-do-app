@@ -22,7 +22,7 @@ A simple and responsive **ToDo List Application** built with **React** and **Vit
 - React.js
 - Vite
 - JavaScript (ES6+)
-- CSS
+- Tailwind CSS
 - React Icons
 
 ---
