@@ -52,3 +52,14 @@ npm run dev
 🚀 Live Demo
 
 🌐 Live Website: https://to-do-app-taskflows.vercel.app/
+
+
+# 👨‍💻 Author
+
+**Garvit Rahoria**
+
+GitHub: https://github.com/Garvit-Rahoria
+
+---
+
+⭐ If you found this project helpful, don't forget to **Star** this repository!
